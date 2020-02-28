@@ -1,2 +1,1 @@
-# Apresentacoes aulas
-Apresentações em pdf de cursos e aulas 
+## Material de cursos e aulas sobre inferência causal 
